@@ -1,1 +1,1 @@
-This is my first Java project - In progress
+Java project - In progress
